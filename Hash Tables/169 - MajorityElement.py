@@ -5,7 +5,7 @@ class Solution:
         for i in nums:
             if count == 0:
                 ans = i
-            if ans == nums:
+            if ans == i:
                 count += 1 
             else:
                 count -=1
