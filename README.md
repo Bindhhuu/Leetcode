@@ -4,7 +4,7 @@ I actively solve Data Structures and Algorithms problems on LeetCode(https://lee
 
 📌 **What you'll find here:**  
 - 🔹 Solutions to important LeetCode questions  
-- 🔹 Optimized Python code with explanations  
+- 🔹 Optimized Python code
 - 🔹 A variety of DSA topics covered  
 
 Stay tuned for more updates, and feel free to explore! 🚀  
