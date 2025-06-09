@@ -9,7 +9,7 @@ class MyQueue:
 
     def pop(self) -> int:
         if not self.outstack:
-            while instack:
+            while self.instack:
                 self.outstack.append(self.instack.pop())
         return self.outstack.pop()
 
